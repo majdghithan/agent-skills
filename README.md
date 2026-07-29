@@ -12,6 +12,7 @@ Agent skills by [Majd Ghithan](https://github.com/majdghithan) - Full-Stack Engi
 | [`laravel-mysql-to-postgres`](skills/laravel-mysql-to-postgres) | Migrate a Laravel app from MySQL to PostgreSQL without silent breakage |
 | [`laravel-mixpost`](skills/laravel-mixpost) | Self-host & operate Mixpost (install, providers, scheduling, gotchas) |
 | [`geo-llm-optimization`](skills/geo-llm-optimization) | Get cited inside AI-assistant answers (GEO): crawlers, structure, llms.txt |
+| [`skill-authoring`](skills/skill-authoring) | Author, verify, and publish a high-quality agent skill (the meta-skill) |
 
 Install any skill with `npx skills add majdghithan/agent-skills --skill <name>` (or `--all`).
 
