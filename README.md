@@ -7,6 +7,8 @@ Agent skills by [Majd Ghithan](https://github.com/majdghithan) - Full-Stack Engi
 | Skill | What it does |
 |---|---|
 | [`laravel-filament`](skills/laravel-filament) | Version-aware Filament best practices (v1-v5) + every upgrade path |
+| [`livewire`](skills/livewire) | Version-aware Livewire best practices (v1-v4) + every upgrade path |
+| [`filament-plugin-development`](skills/filament-plugin-development) | Build & publish custom Filament plugins (v4/v5): contract, assets, hooks, publishing |
 | [`laravel-mysql-to-postgres`](skills/laravel-mysql-to-postgres) | Migrate a Laravel app from MySQL to PostgreSQL without silent breakage |
 | [`laravel-mixpost`](skills/laravel-mixpost) | Self-host & operate Mixpost (install, providers, scheduling, gotchas) |
 | [`geo-llm-optimization`](skills/geo-llm-optimization) | Get cited inside AI-assistant answers (GEO): crawlers, structure, llms.txt |
