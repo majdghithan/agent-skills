@@ -4,6 +4,15 @@ Agent skills by [Majd Ghithan](https://github.com/majdghithan) - Full-Stack Engi
 
 ## Skills
 
+| Skill | What it does |
+|---|---|
+| [`laravel-filament`](skills/laravel-filament) | Version-aware Filament best practices (v1-v5) + every upgrade path |
+| [`laravel-mysql-to-postgres`](skills/laravel-mysql-to-postgres) | Migrate a Laravel app from MySQL to PostgreSQL without silent breakage |
+| [`laravel-mixpost`](skills/laravel-mixpost) | Self-host & operate Mixpost (install, providers, scheduling, gotchas) |
+| [`geo-llm-optimization`](skills/geo-llm-optimization) | Get cited inside AI-assistant answers (GEO): crawlers, structure, llms.txt |
+
+Install any skill with `npx skills add majdghithan/agent-skills --skill <name>` (or `--all`).
+
 ### `laravel-filament`
 
 Version-aware best practices for [Filament](https://filamentphp.com) (the Laravel admin-panel / TALL-stack framework), covering **v1 through v5** plus every upgrade path. It detects the installed Filament major version first (the API differs a lot between majors, especially v3 -> v4) and then applies only that version's rules.
